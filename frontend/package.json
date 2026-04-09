@@ -1,7 +1,7 @@
 {
   "name": "school-report",
   "homepage": "https://radithyardin.github.io/school-report/",
-  "private": true,
+  "homepage": "https://radithyardin.github.io/school-report/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
