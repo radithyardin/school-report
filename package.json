@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "School Report Application - Frontend & Backend",
   "scripts": {
-    "build": "cd frontend && npm run build"
+    "install:frontend": "cd frontend && npm install",
+    "install:backend": "echo Backend: Install XAMPP dan import database.sql",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
